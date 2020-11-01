@@ -284,7 +284,7 @@
 	<script src="<%=request.getContextPath()%>/frontend/assets/validate.js"></script>
 	
 	 <!-- Map -->
-	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBHWGXYppmIEDkttcTX_yZk6hkQZEI6uC0&callback=initMap"></script>
+	<script src="http://maps.googleapis.com/maps/api/#"></script>
 	<script src="<%=request.getContextPath()%>/frontend/js/markerclusterer.js"></script>
 	
 	<script>
