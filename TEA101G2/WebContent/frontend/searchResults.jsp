@@ -235,7 +235,6 @@
 									
 								    	$(document).ready(function () {							
 								    		$('.mfs${s.index}').on('click', function() {
-								    			alert("test");
 									            $.ajax({
 									                url: "<%=request.getContextPath()%>/MemberFavoriteServlet.do",
 									                type: "POST",
